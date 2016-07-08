@@ -1663,7 +1663,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #59755e;
+  background: #8bffa7;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1983,7 +1983,7 @@ pre .javascript .function {
 }
 .theme-next #ds-reset .duoshuo-ua-platform,
 .theme-next #ds-reset .duoshuo-ua-browser {
-  color: #606060;
+  color: #000;
 }
 .theme-next #ds-reset .duoshuo-ua-platform .fa,
 .theme-next #ds-reset .duoshuo-ua-browser .fa {
@@ -1995,7 +1995,7 @@ pre .javascript .function {
   margin-left: 5px;
 }
 .theme-next .this_ua {
-  background-color: #606060 !important;
+  background-color: #000 !important;
   border-radius: 4px;
   padding: 0 5px !important;
   margin: 1px 1px !important;
