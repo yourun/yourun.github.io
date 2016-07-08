@@ -1663,7 +1663,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #36160a;
+  background: #b812c4;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1995,7 +1995,7 @@ pre .javascript .function {
   margin-left: 5px;
 }
 .theme-next .this_ua {
-  background-color: #ccc !important;
+  background-color: #606060 !important;
   border-radius: 4px;
   padding: 0 5px !important;
   margin: 1px 1px !important;
