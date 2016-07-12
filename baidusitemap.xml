@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>http://yoursite.com/2016/07/04/hello-world/</loc>
+    <lastmod>2016-07-12T04:46:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-07-03T16:25:09.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2016/07/09/%E5%AE%8B%E7%91%9B%E6%A1%A5/</loc>
     <lastmod>2016-07-11T15:38:00.000Z</lastmod>
     <data>
@@ -80,23 +97,6 @@
         <pubTime>2016-07-04T14:42:36.000Z</pubTime>
         
         <tag>域名资讯</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2016/07/04/hello-world/</loc>
-    <lastmod>2016-07-08T11:40:33.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2016-07-03T16:25:09.000Z</pubTime>
-        
-        <tag>Hexo</tag>
          
          
            
