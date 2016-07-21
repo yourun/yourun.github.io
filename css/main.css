@@ -1664,7 +1664,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0fff30;
+  background: #a2ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1984,7 +1984,7 @@ pre .javascript .function {
 }
 .theme-next #ds-reset .duoshuo-ua-platform,
 .theme-next #ds-reset .duoshuo-ua-browser {
-  color: #000;
+  color: #606060;
 }
 .theme-next #ds-reset .duoshuo-ua-platform .fa,
 .theme-next #ds-reset .duoshuo-ua-browser .fa {
