@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2016-08-05T01:13:27.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/commonweal404page/index.html</loc>
+    
+    <lastmod>2016-08-05T01:13:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/domainsales/index.html</loc>
+    
+    <lastmod>2016-08-05T01:13:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/guestbook/index.html</loc>
     
-    <lastmod>2016-08-03T02:21:57.000Z</lastmod>
+    <lastmod>2016-08-05T01:12:48.000Z</lastmod>
     
   </url>
   
@@ -75,27 +96,6 @@
     <loc>http://yoursite.com/2016/07/04/%E7%B1%B3%E7%8E%8B/</loc>
     
     <lastmod>2016-07-10T17:37:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/domainsales/index.html</loc>
-    
-    <lastmod>2016-07-05T03:57:23.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2016-07-04T14:31:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/commonweal404page/index.html</loc>
-    
-    <lastmod>2016-07-04T07:20:54.000Z</lastmod>
     
   </url>
   
