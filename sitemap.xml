@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2016/07/13/xin/</loc>
+    
+    <lastmod>2016-08-06T15:03:37.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/guestbook/index.html</loc>
     
     <lastmod>2016-08-06T07:19:40.000Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://yoursite.com/domainsales/index.html</loc>
     
     <lastmod>2016-08-05T01:13:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/07/13/xin/</loc>
-    
-    <lastmod>2016-08-02T15:42:15.000Z</lastmod>
     
   </url>
   
